@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAACPDwAAAAAA/5gPAAAAAP+YiQ8AAADwmImIDwAAICKIiIhIAAAA8JiJiA8AAAAA/5iJDwAAAAAA/5gPAAAAAAAAjw8AAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ship"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiAAAAACIiIiICAAAgIiZmYiICACAmJmZmYgAAICYmZmIiAAAgIiZmYmICAAAiIiIiIgAAAAAiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerBlast"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw//8AAAAAAC8iIg8AAAAAL0Qk/w8AAPDyIvIAAABFL/T/DwAAAABP8lX1AAAAAE/yVfUAAABFL/T/DwAAAADw8iLyAAAAAAAvRCT/DwAAAC8iIg8AAAAA8P//AAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemy"
+    },
+    "9!TT)f?8|k[+M{c8C)q2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Dead"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA//8AAAAAAEB/d/8AAAAAQH8zd/8AAAAA8Hdzd/8AAAAAfzdzd/8AAAB/d3czcw8AAH83c3f/AADwd3N3/wAAQH8zd/8AAABAf3f/AAAAAED//wAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "TargetShip"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
